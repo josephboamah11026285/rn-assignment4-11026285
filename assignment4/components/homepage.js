@@ -21,56 +21,46 @@ const featuredJobs = [
 
   {
     id: '3',
-    title: 'Software Engineer',
-    company: 'Facebook',
-    salary: '$180,000',
-    location: 'Accra, Ghana',
-    image: require('../assets/facebook.png'),
+    title: 'UI/UX Developer',
+    company: 'Instagram',
+    salary: '$200,000',
+    location: 'London, United Kingdom',
   },
 
   {
     id: '4',
-    title: 'Software Engineer',
-    company: 'Facebook',
-    salary: '$180,000',
-    location: 'Accra, Ghana',
-    image: require('../assets/facebook.png'),
+    title: 'Frontend Developer',
+    company: 'Google',
+    salary: '$150,000',
+    location: 'San Francisco, CA, USA'
   },
-
   {
     id: '5',
-    title: 'Software Engineer',
-    company: 'Facebook',
+    title: 'Backend Developer',
+    company: 'Amazon',
     salary: '$180,000',
-    location: 'Accra, Ghana',
-    image: require('../assets/facebook.png'),
+    location: 'Seattle, WA, USA'
   },
-
   {
     id: '6',
-    title: 'Software Engineer',
+    title: 'Data Scientist',
     company: 'Facebook',
-    salary: '$180,000',
-    location: 'Accra, Ghana',
-    image: require('../assets/facebook.png'),
+    salary: '$200,000',
+    location: 'New York, NY, USA'
   },
-
   {
     id: '7',
-    title: 'Software Engineer',
-    company: 'Facebook',
-    salary: '$180,000',
-    location: 'Accra, Ghana',
-    image: require('../assets/facebook.png'),
+    title: 'Full Stack Developer',
+    company: 'Microsoft',
+    salary: '$170,000',
+    location: 'Redmond, WA, USA'
   },
-
   {
     id: '8',
-    title: 'Software Engineer',
-    company: 'Facebook',
-    salary: '$180,000',
-    location: 'Accra, Ghana',
-    image: require('../assets/facebook.png'),
+    title: 'Mobile Developer',
+    company: 'Apple',
+    salary: '$190,000',
+    location: 'Cupertino, CA, USA'
   },
 ];
 
@@ -99,50 +89,45 @@ const popularJobs = [
     location: 'Florida, US',
     image: require('../assets/facebook.png'),
   },
-
   {
     id: '4',
-    title: 'Product Manager',
-    company: 'Facebook',
-    salary: '$86,000/y',
-    location: 'Florida, US',
-    image: require('../assets/facebook.png'),
+    title: 'Software Engineer',
+    company: 'Microsoft',
+    salary: '$120,000/y',
+    location: 'Seattle, WA, USA',
+    image: require('../assets/microsoft.png'),
   },
-
   {
     id: '5',
-    title: 'Product Manager',
-    company: 'Facebook',
-    salary: '$86,000/y',
-    location: 'Florida, US',
-    image: require('../assets/facebook.png'),
+    title: 'Data Analyst',
+    company: 'Google',
+    salary: '$110,000/y',
+    location: 'Mountain View, CA, USA',
+    image: require('../assets/google.png'),
   },
-
   {
     id: '6',
-    title: 'Product Manager',
-    company: 'Facebook',
-    salary: '$86,000/y',
-    location: 'Florida, US',
-    image: require('../assets/facebook.png'),
+    title: 'UX Designer',
+    company: 'Apple',
+    salary: '$130,000/y',
+    location: 'Cupertino, CA, USA',
+    image: require('../assets/apple.png'),
   },
-
   {
     id: '7',
-    title: 'Product Manager',
-    company: 'Facebook',
-    salary: '$86,000/y',
-    location: 'Florida, US',
-    image: require('../assets/facebook.png'),
+    title: 'Product Owner',
+    company: 'Amazon',
+    salary: '$125,000/y',
+    location: 'Seattle, WA, USA',
+    image: require('../assets/amazon.png'),
   },
-
   {
     id: '8',
-    title: 'Product Manager',
-    company: 'Facebook',
-    salary: '$86,000/y',
-    location: 'Florida, US',
-    image: require('../assets/facebook.png'),
+    title: 'DevOps Engineer',
+    company: 'Netflix',
+    salary: '$135,000/y',
+    location: 'Los Gatos, CA, USA',
+    image: require('../assets/netflix.png'),
   },
 ];
 
